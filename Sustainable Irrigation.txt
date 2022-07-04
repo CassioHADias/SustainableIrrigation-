@@ -1,0 +1,17 @@
+Sustainable Irrigation System
+
+The project aims to create an automated sustainable irrigation system with IoT, in a simple and scalable way, with low cost of implementation and maintenance, 
+in addition to adaptation according to local needs, seeking to preserve and optimize the use of water resources
+
+Group:
+The group is formed by undergraduate students from the Virtual University of the State of São Paulo – Univesp do Polo de Mococa/SP and Freguesia do Ó/SP.
+
+Members:
+Cassio Dias
+Felipe da Silva Braz
+Gabriel Negri
+Jose Angelo de Oliveira
+
+Mentor:
+Higor Amaro de Souza - UNIVESP 
+Brendan Rowan - Bluspecs
